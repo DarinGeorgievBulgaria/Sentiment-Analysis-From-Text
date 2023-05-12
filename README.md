@@ -19,11 +19,16 @@ To complete this task I had to choose three algorithms out of six. My decision w
 •	The third algorithm is “Naïve Bayes” with its function “fitcnb()”[4]
 
 On each one of them the machine is first trained using the function for each of the algorithms. After that the accuracy is calculated using the formula illustrated below. 
+
+![Картина1](https://github.com/DarinGeorgievBulgaria/Sentiment-Analysis-From-Text/assets/95240962/587ae502-a2fe-4bf8-8100-ec2558e9ff3e)
  
 Then the matrix with the results is displayed using the function “confusionchart()”.
-Results
+
+
+## Results
 The charts with the results are displayed on the next page. Figure 1 is for “K-Nearest Neighbour”. Figure 2 is for ”Discriminant Analysis”. And figure 3 is for “Naïve Bayes”. We can notice that the second algorithm was the most accurate with a value of 0.50. or 50% accuracy. The other two are close two each other with values of 0.38 for the first algorithm and 0.30 for the third algorithm.
- 
+
+![Картина2](https://github.com/DarinGeorgievBulgaria/Sentiment-Analysis-From-Text/assets/95240962/bcf081f6-4c8e-40e0-833c-7a458c5a4601)
  
 ## Conclusion
 
