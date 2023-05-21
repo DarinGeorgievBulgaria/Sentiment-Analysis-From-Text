@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This problem is about how to create an automatic classification from recorded tweets from Twitter. The tweets must be classified by the emotion that is hidden behind the words. For this task three algorithms will be used to find out which one is the most accurate. This coursework is interesting because it combines a lot of the fundamentals of machine learning in one single task which if it was in bigger scale it would be able to save a lot of data processing time and removing hateful content rapidly. 
+This problem is about how to create an automatic classification from recorded tweets from Twitter. The tweets must be classified by the emotion that is hidden behind the words. For this task three algorithms will be used to find out which one is the most accurate. This project is interesting because it combines a lot of the fundamentals of machine learning in one single task which if it was in bigger scale it would be able to save a lot of data processing time and removing hateful content rapidly. 
 
 
 ## Data and Preparation
